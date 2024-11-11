@@ -720,6 +720,38 @@ section,
   font-size: 26px;
 }
 
+.hero .w-50 .btn-success {  
+  font-size: xxx-large;  
+  padding: 20px 40px; /* More padding for a better look */  
+  color: white;  
+  border: none;  
+  border-radius: 8px; /* More rounded corners */  
+  background: linear-gradient(45deg, #28a745, #56b947); /* Gradient background */  
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Shadow to lift it from the background */  
+  transition: background-color 0.4s ease, transform 0.3s ease, box-shadow 0.4s ease, filter 0.3s ease; /* Smooth transition */  
+  cursor: pointer; /* Change cursor on hover */  
+  font-weight: bold; /* Bold text */  
+}  
+
+/* Add hover effects */  
+.hero .w-50 .btn-success:hover {  
+  background: linear-gradient(45deg, #218838, #4caf50); /* Change gradient on hover */  
+  transform: scale(1.05) rotate(2deg); /* Slightly increase size and rotate */  
+  box-shadow: 0 8px 30px rgba(255, 255, 255, 0.3), 0 0 20px rgba(25, 135, 84, 0.5); /* Enhanced shadow */  
+  filter: brightness(1.1); /* Brighten the button slightly */  
+}  
+
+/* Add active effects */  
+.hero .w-50 .btn-success:active {  
+  transform: scale(0.95) rotate(-2deg); /* Scale down and rotate when clicked */  
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Reduced shadow on click */  
+}  
+
+/* Optional: Add a glow effect suitable for black background */  
+.hero .w-50 .btn-success:hover {  
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(25, 135, 84, 0.6), 0 0 45px rgba(25, 135, 84, 0.4);  
+}
+
 .hero p span {
   letter-spacing: 1px;
   border-bottom: 2px solid var(--accent-color);
