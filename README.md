@@ -1,4 +1,4 @@
-Welcome to my portfolio!
+👋Welcome to my portfolio!👋
 
 This repository showcases a collection of projects that demonstrate my skills and experience as a Generative AI & Full-Stack developer.
 
