@@ -1,4 +1,4 @@
-# Welcome to My Portfolio!  
+ # Welcome to My Portfolio!  
 
 ## 🚀 About Me  
 
@@ -24,4 +24,5 @@ I would love to connect with you! Feel free to reach out through any of the foll
 
 ## 🌟 Let’s Work Together!  
 
-Thank you for visiting my portfolio! I’m always looking for exciting opportunities and collaborations, so don’t hesitate to reach out!
+Thank you for visiting my portfolio!
+I’m always looking for exciting opportunities and collaborations, so don’t hesitate to reach out!
